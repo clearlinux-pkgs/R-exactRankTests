@@ -7,7 +7,7 @@
 #
 Name     : R-exactRankTests
 Version  : 0.8.35
-Release  : 3
+Release  : 4
 URL      : https://cran.r-project.org/src/contrib/exactRankTests_0.8-35.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/exactRankTests_0.8-35.tar.gz
 Summary  : Exact Distributions for Rank and Permutation Tests
